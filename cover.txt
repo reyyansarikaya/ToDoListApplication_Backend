@@ -1,0 +1,24 @@
+mode: set
+bootcamp/repository/repository.go:12.34,22.2 1 1
+bootcamp/repository/repository.go:28.46,30.34 2 1
+bootcamp/repository/repository.go:33.2,33.17 1 1
+bootcamp/repository/repository.go:30.34,32.3 1 1
+bootcamp/repository/repository.go:36.40,39.24 3 1
+bootcamp/repository/repository.go:42.2,42.63 1 1
+bootcamp/repository/repository.go:39.24,41.3 1 1
+bootcamp/handler/handler.go:18.52,20.2 1 1
+bootcamp/handler/handler.go:27.60,35.2 4 0
+bootcamp/handler/handler.go:36.76,37.32 1 1
+bootcamp/handler/handler.go:37.32,39.3 1 1
+bootcamp/handler/handler.go:39.8,39.40 1 1
+bootcamp/handler/handler.go:39.40,41.3 1 1
+bootcamp/handler/handler.go:41.8,44.3 2 0
+bootcamp/handler/handler.go:47.46,51.16 3 1
+bootcamp/handler/handler.go:55.2,57.19 3 1
+bootcamp/handler/handler.go:51.16,54.3 2 0
+bootcamp/handler/handler.go:60.64,69.47 6 1
+bootcamp/handler/handler.go:75.2,76.8 2 1
+bootcamp/handler/handler.go:69.47,73.3 3 0
+bootcamp/service/service.go:14.66,16.2 1 1
+bootcamp/service/service.go:22.54,24.2 1 1
+bootcamp/service/service.go:26.52,29.2 2 1
